@@ -31,3 +31,15 @@ This code respository has codes to reproduce plots similar to Fig. 2 in the pape
 #####################
 
 --> After the required result files are generated, source the file "qDAGxo_vs_qDAGxm_vs_qDAGx_plot.R" to generate the plot, comparing the three estimation procedures qDAGx_0, qDAGx_m and qDAGx.  
+
+####################
+## Real data #######
+####################
+
+--> The cleaned datasets used for both the cancers are in the directories "LUAD_Data" for Lung adenocarcinoma and "LUSC_Data" for Lung squamous cell carcinoma respectively. 
+
+####################
+## ArXiv ###########
+####################
+
+--> https://arxiv.org/abs/2210.08096
